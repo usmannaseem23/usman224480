@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @usman224480
+- 👋 Hi, I’m @usmannaseem
 - 👀 I’m interested in It
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning typescript and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he im
